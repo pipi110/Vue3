@@ -1,5 +1,5 @@
 import bar from './bar.js';
 import './css/index.css'
-import Info from './img/info.jpg'
+import Canyue from './img/canyue.jpg'
 
 bar();
